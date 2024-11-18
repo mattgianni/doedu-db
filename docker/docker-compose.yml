@@ -1,0 +1,31 @@
+# Docker Compose file for setting up a PostgreSQL database for the D.O.Edu DB Hack project
+
+services:
+  doedu_db:
+    image: postgres
+    shm_size: 128mb
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_PASSWORD: mhallwfwwas
+      POSTGRES_DB: mydb
+    volumes:
+      - doedu-data:/var/lib/postgresql/data
+
+  # adminer:
+  #   image: adminer
+  #   ports:
+  #     - 8080:8080
+
+  psql:
+    image: postgres
+    container_name: psql
+    depends_on:
+      - doedu_db
+    entrypoint: ["psql", "-h", "doedu_db", "-U", "postgres", "mydb"]
+    stdin_open: true
+    tty: true
+
+volumes:
+  doedu-data:
+    driver: local
