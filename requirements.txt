@@ -1,0 +1,3 @@
+notebook
+python-dotenv
+psycopg2
