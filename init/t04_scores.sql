@@ -1,4 +1,3 @@
--- SET max_wal_size = '4GB';
 CREATE TABLE IF NOT EXISTS scores (
     id SERIAL PRIMARY KEY,
     county_code VARCHAR(50),
@@ -142,7 +141,7 @@ COPY scores (
     cmp_area_2_pct_below_std,
     cmp_area_2_count_below_std,
     cmp_area_2_total)
-FROM '/raw/scores.txt' DELIMITER '^' CSV NULL '' HEADER;
+FROM '/raw/scores.dat' DELIMITER '^' CSV NULL '' HEADER;
 
 CREATE INDEX ON scores (district_code, type_id);
 CREATE INDEX ON scores (district_code);

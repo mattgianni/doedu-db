@@ -21,4 +21,7 @@ if [ ! -f $RAW_DIR/StudentGroups.txt ]; then
 fi
 
 # convert the file to a properly formatted utf-8 standard and convert '*' to ''
-iconv -f utf-8 -t utf-8 -c $RAW_DIR/sb_ca2024_all_csv_v1.txt | sed 's/\*//g' > $RAW_DIR/scores.txt
+iconv -f utf-8 -t utf-8 -c $RAW_DIR/sb_ca2024_all_csv_v1.txt | sed 's/\*//g' > $RAW_DIR/scores.dat
+iconv -f utf-8 -t utf-8 -c $RAW_DIR/sb_ca2024entities_csv.txt | sed 's/\*//g' > $RAW_DIR/entities.dat
+iconv -f utf-8 -t utf-8 -c $RAW_DIR/StudentGroups.txt | sed 's/\*//g' > $RAW_DIR/demographics.dat
+iconv -f utf-8 -t utf-8 -c $RAW_DIR/Tests.txt | sed 's/\*//g' > $RAW_DIR/tests.dat
