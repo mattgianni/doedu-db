@@ -1,36 +1,36 @@
 # Docker Compose file for setting up a PostgreSQL database for the D.O.Edu DB Hack project
 
 services:
-    doedu_db:
-        image: postgres
-        shm_size: 128mb
-        ports:
-            - 5432:5432
-        environment:
-            POSTGRES_PASSWORD: ${DB_PASSWORD}
-            POSTGRES_DB: mydb
-        volumes:
-            - doedu-data:/var/lib/postgresql/data
-            - ./raw:/raw:ro
-            - ./init:/docker-entrypoint-initdb.d:ro
+  doedu_db:
+    image: postgres
+    shm_size: 128mb
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    volumes:
+      - doedu-data:/var/lib/postgresql/data
+      - ./raw:/raw:ro
+      - ./init:/docker-entrypoint-initdb.d:ro
 
-    # adminer:
-    #   image: adminer
-    #   ports:
-    #     - 8080:8080
+  # adminer:
+  #   image: adminer
+  #   ports:
+  #     - 8080:8080
 
-    psql:
-        image: postgres
-        container_name: psql
-        depends_on:
-            - doedu_db
-        environment:
-            PGPASSWORD: ${DB_PASSWORD}
-            POSTGRES_DB: mydb
-        entrypoint: ["psql", "-h", "doedu_db", "-U", "postgres", "mydb"]
-        stdin_open: true
-        tty: true
+  psql:
+    image: postgres
+    container_name: psql
+    depends_on:
+      - doedu_db
+    environment:
+      PGPASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    entrypoint: ["psql", "-h", "doedu_db", "-U", "${DB_USER}", "${DB_NAME}"]
+    stdin_open: true
+    tty: true
 
 volumes:
-    doedu-data:
-        driver: local
+  doedu-data:
+    driver: local
