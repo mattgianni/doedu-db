@@ -1,3 +1,4 @@
 notebook
 python-dotenv
-psycopg2-binary
+psycopg2-binary; sys_platform == "darwin"
+psycopg2; sys_platform != "darwin"
