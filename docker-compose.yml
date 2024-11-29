@@ -7,8 +7,8 @@ services:
         ports:
             - 5432:5432
         environment:
-            POSTGRES_PASSWORD: ${DB_PASSWORD}
-            POSTGRES_DB: mydb
+            POSTGRES_PASSWORD: ${DB_PASSWORD:-supersecret}
+            POSTGRES_DB: ${DB_NAME:-mydb}
         volumes:
             - doedu-data:/var/lib/postgresql/data
             - ./raw:/raw:ro
@@ -18,18 +18,6 @@ services:
     #   image: adminer
     #   ports:
     #     - 8080:8080
-
-    psql:
-        image: postgres
-        container_name: psql
-        depends_on:
-            - doedu_db
-        environment:
-            PGPASSWORD: ${DB_PASSWORD}
-            POSTGRES_DB: mydb
-        entrypoint: ["psql", "-h", "doedu_db", "-U", "postgres", "mydb"]
-        stdin_open: true
-        tty: true
 
 volumes:
     doedu-data:
