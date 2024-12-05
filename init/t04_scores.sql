@@ -145,3 +145,10 @@ FROM '/raw/scores.dat' DELIMITER '^' CSV NULL '' HEADER;
 
 CREATE INDEX ON scores (district_code, type_id);
 CREATE INDEX ON scores (district_code);
+CREATE INDEX ON scores (school_code);
+CREATE INDEX ON scores (type_id);
+CREATE INDEX ON scores (student_group_id);
+CREATE INDEX ON scores (grade);
+CREATE INDEX ON scores (test_id);
+CREATE INDEX ON scores (type_id, student_group_id, grade, test_id);
+CREATE INDEX ON scores (type_id, student_group_id, grade);

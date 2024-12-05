@@ -29,3 +29,4 @@ FROM '/raw/entities.dat' DELIMITER '^' CSV NULL '' HEADER;
 
 CREATE INDEX ON entities (district_code, type_id);
 CREATE INDEX ON entities (district_code);
+CREATE INDEX ON entities (school_code);
