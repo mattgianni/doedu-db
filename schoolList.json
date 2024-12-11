@@ -7,7 +7,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/ORCHESTRA%201.jpg?itok=pWm52hvh",
             "width": "320",
             "height": "180",
-            "filePath": "school_img/ap-giannini-middle-school.jpg"
+            "filePath": "ap-giannini-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -97,6 +97,11 @@
                     "description": "Includes AVID, counselor support, health and wellness center, mentoring, on-site nurse, social worker, and college counseling services."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/logo_0.png",
+            "logoAltText": "A.P. Giannini Middle School Logo",
+            "filePath": "ap-giannini-middle-school.png"
         }
     },
     {
@@ -107,7 +112,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/ALHSBackOfSchool.jpg?itok=THa6qm--",
             "width": "320",
             "height": "427",
-            "filePath": "school_img/abraham-lincoln-high-school.jpg"
+            "filePath": "abraham-lincoln-high-school.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-12"],
@@ -205,6 +210,11 @@
                     "description": "Provides 100% college prep, academic counseling, financial aid workshops, college application workshops, college tours and visits, and personal statement workshops through various initiatives."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/ALHS%20Logo_0.png",
+            "logoAltText": "Abraham Lincoln High School Logo",
+            "filePath": "abraham-lincoln-high-school.png"
         }
     },
     {
@@ -308,7 +318,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2021-11/IMG_0749_0.jpeg?itok=y6_2R8P7",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/accesssfusd-arc.jpeg"
+            "filePath": "accesssfusd-arc.jpeg"
         },
         "gradesLabel": "County School",
         "gradeCodes": ["13"],
@@ -390,6 +400,11 @@
                     "description": "A diverse arts curriculum including digital media, visual arts, dance, music, and performance arts, fostering creative expression."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/AccessSFUSD%20Logo_0.png",
+            "logoAltText": "AccessSFUSD: The Arc Logo",
+            "filePath": "accesssfusd-arc.png"
         }
     },
     {
@@ -400,7 +415,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Alamo%20ES.jpg?itok=7r_9ZIIp",
             "width": "320",
             "height": "180",
-            "filePath": "school_img/alamo-elementary-school.jpg"
+            "filePath": "alamo-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -502,6 +517,11 @@
                     "description": "Comprehensive arts programs including Ceramics, Dance, Drama, Instrumental Music, and collaboration with SF Ballet, aiming to enhance creative skills across grade levels."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/logo.png",
+            "logoAltText": "Alamo Elementary School Logo",
+            "filePath": "alamo-elementary-school.png"
         }
     },
     {
@@ -512,7 +532,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Alice_Fong_Yu_4.png?itok=PcnC63Xb",
             "width": "320",
             "height": "203",
-            "filePath": "school_img/alice-fong-yu-alternative-school-k-8.png"
+            "filePath": "alice-fong-yu-alternative-school-k-8.png"
         },
         "gradesLabel": "Elementary School, K-8 School, Middle School",
         "gradeCodes": ["K", "1-8"],
@@ -598,6 +618,11 @@
                     "description": "Support from counselors, social workers, and student advisers focusing on student's well-being and academic progress."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/logo_3.png",
+            "logoAltText": "Alice Fong Yu Alternative School (K8) Logo",
+            "filePath": "alice-fong-yu-alternative-school-k-8.png"
         }
     },
     {
@@ -608,7 +633,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/alvarado_470.jpg?itok=syT0_3G2",
             "width": "320",
             "height": "339",
-            "filePath": "school_img/alvarado-elementary-school.jpg"
+            "filePath": "alvarado-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -694,6 +719,11 @@
                     "description": "Offers 2D/3D arts electives, Orff music sessions, and small group instrumental lessons, with performances at school assemblies."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/cougars_red.jpg",
+            "logoAltText": "Alvarado Elementary School Logo",
+            "filePath": "alvarado-elementary-school.jpg"
         }
     },
     {
@@ -704,7 +734,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Aptos%20Middle%20School%202010.jpg?itok=nG2PbikU",
             "width": "320",
             "height": "149",
-            "filePath": "school_img/aptos-middle-school.jpg"
+            "filePath": "aptos-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -800,7 +830,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/P1010301.jpg?itok=bKEOUcvT",
             "width": "320",
             "height": "427",
-            "filePath": "school_img/argonne-early-education-school.jpg"
+            "filePath": "argonne-early-education-school.jpg"
         },
         "gradesLabel": "Early Education",
         "gradeCodes": ["PreK", "TK"],
@@ -888,7 +918,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Argonne%20Aug%202021.jpeg?itok=HoewKXrX",
             "width": "320",
             "height": "255",
-            "filePath": "school_img/argonne-elementary-school-extended-year.jpeg"
+            "filePath": "argonne-elementary-school-extended-year.jpeg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -976,6 +1006,11 @@
                     "description": "Comprehensive support services including a social worker and speech pathologist to assist with student development."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/argonne-wolf%20%283%29.png",
+            "logoAltText": "Argonne Elementary School Logo",
+            "filePath": "argonne-elementary-school-extended-year.png"
         }
     },
     {
@@ -1073,6 +1108,11 @@
                     "description": "Focuses on Arts, Media and Entertainment, and Information and Communication Technology, preparing students for future careers."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Balboa_Established.png",
+            "logoAltText": "Balboa High School Logo",
+            "filePath": "balboa-high-school.png"
         }
     },
     {
@@ -1083,7 +1123,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/bessie-carmichael-school-470.jpg?itok=rukzJBHd",
             "width": "313",
             "height": "461",
-            "filePath": "school_img/bessie-carmichael-school-prek-8-filipino-education-center.jpg"
+            "filePath": "bessie-carmichael-school-prek-8-filipino-education-center.jpg"
         },
         "gradesLabel": "Early Education, Elementary School, K-8 School, Middle School",
         "gradeCodes": ["PreK", "TK", "K", "1-8"],
@@ -1214,6 +1254,11 @@
                     "description": "Includes advisory, AVID, counseling, family liaison, health and wellness services, and college counseling."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/2.png",
+            "logoAltText": "Bessie Carmichael School PreK-8 Filipino Education Center Logo",
+            "filePath": "bessie-carmichael-school-prek-8-filipino-education-center.png"
         }
     },
     {
@@ -1224,7 +1269,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Week%203.jpg?itok=toy4a85w",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/bret-harte-elementary-school.jpg"
+            "filePath": "bret-harte-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -1307,6 +1352,11 @@
                     "description": "Offers specialized educational services tailored to the needs of students with mild to moderate disabilities."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screen%20Shot%202019-08-01%20at%202.05.04%20PM.png",
+            "logoAltText": "Bret Harte Elementary School Logo",
+            "filePath": "bret-harte-elementary-school.png"
         }
     },
     {
@@ -1317,7 +1367,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Bryant%20ES.JPG?itok=NsnrIfLa",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/bryant-elementary-school.jpg"
+            "filePath": "bryant-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -1401,6 +1451,11 @@
                     "description": "Provides access to a nurse, counselor, mentoring, social worker, student adviser, and therapist to support student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/563998_496386737047701_1598231096_n.jpg",
+            "logoAltText": "Bryant Elementary School Logo",
+            "filePath": "bryant-elementary-school.jpg"
         }
     },
     {
@@ -1411,7 +1466,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/buena_vista.jpg?itok=3lckRokj",
             "width": "320",
             "height": "424",
-            "filePath": "school_img/buena-vista-horace-mann-k-8-community-school.jpg"
+            "filePath": "buena-vista-horace-mann-k-8-community-school.jpg"
         },
         "gradesLabel": "Elementary School, K-8 School, Middle School",
         "gradeCodes": ["K", "1-8"],
@@ -1501,6 +1556,11 @@
                     "description": "Provides student support with a family liaison, on-site nurse, and social worker to ensure comprehensive care for students."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Copy%20of%20Dragon%20Logo.jpg",
+            "logoAltText": "Buena Vista Horace Mann K-8 Community School Logo",
+            "filePath": "buena-vista-horace-mann-k-8-community-school.jpg"
         }
     },
     {
@@ -1643,6 +1703,11 @@
                     "description": "Facilitates internship placements to provide practical experience and exploration of career interests."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/County%20Satellite%20Logo_2.jpeg",
+            "logoAltText": "C.A.R.E. Bayview Logo",
+            "filePath": "care-bayview.jpeg"
         }
     },
     {
@@ -1720,6 +1785,11 @@
                     "description": "Includes advisory and counseling services with support from a school social worker and partnerships with community organizations like the Japanese Community Youth Council."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/County%20Satellite%20Logo.jpeg",
+            "logoAltText": "C.A.R.E. Buchanan Logo",
+            "filePath": "care-buchanan.jpeg"
         }
     },
     {
@@ -1861,6 +1931,11 @@
                     "description": "Enhances learning experiences with regular field trips and coordinated resources and referrals for families within the community."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/County%20Satellite%20Logo_1.jpeg",
+            "logoAltText": "C.A.R.E. Middle School Logo",
+            "filePath": "care-middle-school.jpeg"
         }
     },
     {
@@ -1962,7 +2037,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/11_0.jpg?itok=NIpKN6SY",
             "width": "320",
             "height": "229",
-            "filePath": "school_img/chinese-immersion-school-de-avila-zhongwenchenjinxuexiao.jpg"
+            "filePath": "chinese-immersion-school-de-avila-zhongwenchenjinxuexiao.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -2048,6 +2123,11 @@
                     "description": "Annual reports and assessments provide transparency and insights into school performance and culture, available in multiple languages for accessibility."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/cislogo.png",
+            "logoAltText": "CIS at De Avila Logo",
+            "filePath": "chinese-immersion-school-de-avila-zhongwenchenjinxuexiao.png"
         }
     },
     {
@@ -2118,6 +2198,11 @@
                     "description": "A program where school communities review data and past actions twice a year to strategically plan for future success, incorporating stakeholder engagement."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Civic%20Center%20Logo.png",
+            "logoAltText": "Civic Center Secondary School Logo",
+            "filePath": "civic-center-secondary-school.png"
         }
     },
     {
@@ -2128,7 +2213,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2020-11/Madison.png?itok=EvOwIAMF",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/claire-lilienthal-alternative-school-k-2-madison-campus.png"
+            "filePath": "claire-lilienthal-alternative-school-k-2-madison-campus.png"
         },
         "gradesLabel": "Elementary School, K-8 School",
         "gradeCodes": ["K", "1-2"],
@@ -2210,6 +2295,11 @@
                     "description": "Offers support services such as a social worker and English literacy interventionists to assist students' academic and social-emotional growth."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/CDfg0Jv3_400x400_0.jpg",
+            "logoAltText": "Claire Lilienthal (K-2 Campus) Logo",
+            "filePath": "claire-lilienthal-alternative-school-k-2-madison-campus.jpg"
         }
     },
     {
@@ -2220,7 +2310,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/CL%27s%20New%20MS%20Building_0.jpg?itok=5aKlDpCx",
             "width": "320",
             "height": "205",
-            "filePath": "school_img/claire-lilienthal-alternative-school-k-8.jpg"
+            "filePath": "claire-lilienthal-alternative-school-k-8.jpg"
         },
         "gradesLabel": "Elementary School, K-8 School, Middle School",
         "gradeCodes": ["K", "1-8"],
@@ -2343,6 +2433,11 @@
                     "description": "A range of support services including health and wellness centers, mentoring, and on-site professionals to ensure comprehensive student care."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/CDfg0Jv3_400x400.jpg",
+            "logoAltText": "Claire Lilienthal Alternative School K-8 Logo",
+            "filePath": "claire-lilienthal-alternative-school-k-8.jpg"
         }
     },
     {
@@ -2353,7 +2448,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/clarendon.jpg?itok=G0QPV-oC",
             "width": "320",
             "height": "215",
-            "filePath": "school_img/clarendon-alternative-elementary-school.jpg"
+            "filePath": "clarendon-alternative-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -2486,7 +2581,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/cleveland.jpg?itok=lk97-Ubr",
             "width": "320",
             "height": "182",
-            "filePath": "school_img/cleveland-elementary-school.jpg"
+            "filePath": "cleveland-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -2568,6 +2663,11 @@
                     "description": "Hands-on science workshops that inspire curiosity and provide practical learning experiences outside the traditional classroom setting."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/ClevelandPeaceSign_2.png",
+            "logoAltText": "Cleveland Elementary School Logo",
+            "filePath": "cleveland-elementary-school.png"
         }
     },
     {
@@ -2578,7 +2678,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/sloat.jpg?itok=-KC3dkxo",
             "width": "320",
             "height": "311",
-            "filePath": "school_img/commodore-sloat-elementary-school.jpg"
+            "filePath": "commodore-sloat-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -2664,6 +2764,11 @@
                     "description": "Includes access to social workers and various support services to enhance student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screen%20Shot%202021-10-13%20at%205.48.50%20PM.png",
+            "logoAltText": "Commodore Sloat Elementary School Logo",
+            "filePath": "commodore-sloat-elementary-school.png"
         }
     },
     {
@@ -2674,7 +2779,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/IMG_20200910_133810.jpg?itok=KOlxPE3h",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/commodore-stockton-early-education-school.jpg"
+            "filePath": "commodore-stockton-early-education-school.jpg"
         },
         "gradesLabel": "Early Education",
         "gradeCodes": ["PreK", "TK"],
@@ -2757,6 +2862,11 @@
                     "description": "Comprehensive support including access to a mental health consultant, family support specialist, and PBIS Coach, enhancing student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Commodore%20Stockton%20Early%20Education%20School%20LOGO.png",
+            "logoAltText": "Commodore Stockton Early Education School Logo",
+            "filePath": "commodore-stockton-early-education-school.png"
         }
     },
     {
@@ -2767,7 +2877,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2022-04/Screen%20Shot%202022-04-04%20at%2010.36.12%20AM.png?itok=iMejsmrP",
             "width": "320",
             "height": "186",
-            "filePath": "school_img/daniel-webster-elementary-school.png"
+            "filePath": "daniel-webster-elementary-school.png"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -2857,6 +2967,11 @@
                     "description": "Includes family liaison, mentoring, on-site nurse, social worker, student adviser, and therapist services."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/dw%20logo.png",
+            "logoAltText": "Daniel Webster Elementary School Logo",
+            "filePath": "daniel-webster-elementary-school.png"
         }
     },
     {
@@ -2867,7 +2982,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/feinstein.jpg?itok=jtAAAnu-",
             "width": "320",
             "height": "411",
-            "filePath": "school_img/dianne-feinstein-elementary-school.jpg"
+            "filePath": "dianne-feinstein-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -2967,6 +3082,11 @@
                     "description": "Offers a variety of support services including a health and wellness center, mentoring, and access to a social worker and speech pathologist."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/LionLogo_0.jpeg",
+            "logoAltText": "Dianne Feinstein Elementary School Logo",
+            "filePath": "dianne-feinstein-elementary-school.jpeg"
         }
     },
     {
@@ -2977,7 +3097,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2019-10/%5BHuer%5DDolores%20Huerta%20Mural.jpg?itok=a7cMqbnn",
             "width": "320",
             "height": "326",
-            "filePath": "school_img/dolores-huerta-elementary-school.jpg"
+            "filePath": "dolores-huerta-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -3073,7 +3193,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/downtown.jpg?itok=Sg5J0Qp3",
             "width": "320",
             "height": "149",
-            "filePath": "school_img/downtown-high-school.jpg"
+            "filePath": "downtown-high-school.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["11-12"],
@@ -3175,6 +3295,11 @@
                     "description": "A structured review and planning process engaging the school community in continuous improvement."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/DHS%20Logo.jpg",
+            "logoAltText": "Downtown Continuation High School Logo",
+            "filePath": "downtown-high-school.jpg"
         }
     },
     {
@@ -3185,7 +3310,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/drew1.jpg?itok=5nHaZP2P",
             "width": "320",
             "height": "213",
-            "filePath": "school_img/dr-charles-r-drew-college-preparatory-academy.jpg"
+            "filePath": "dr-charles-r-drew-college-preparatory-academy.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -3270,6 +3395,11 @@
                     "description": "Encompasses a health and wellness center and offers resources to support students' social-emotional learning."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/eagle-24601_960_720.png",
+            "logoAltText": "Dr. Charles R. Drew College Preparatory Academy Logo",
+            "filePath": "dr-charles-r-drew-college-preparatory-academy.png"
         }
     },
     {
@@ -3280,7 +3410,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Carver%20ES.jpg?itok=oneBq8Pq",
             "width": "320",
             "height": "190",
-            "filePath": "school_img/dr-george-washington-carver-elementary-school.jpg"
+            "filePath": "dr-george-washington-carver-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -3363,6 +3493,11 @@
                     "description": "Annual review and planning process for intentionally improving school achievement and stakeholder engagement, including surveys and reports in multiple languages for inclusivity."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/cheetah-40986_1280.png",
+            "logoAltText": "Dr. George Washington Carver Elementary School Logo",
+            "filePath": "dr-george-washington-carver-elementary-school.png"
         }
     },
     {
@@ -3373,7 +3508,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2024-09/IMG_20240919_160852.jpg?itok=Ba7N-p0u",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/dr-martin-luther-king-jr-academic-middle-school.jpg"
+            "filePath": "dr-martin-luther-king-jr-academic-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -3461,6 +3596,11 @@
                     "description": "Advisory and counseling resources including AVID program, family liaison, and social worker support."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/MLK%20LOGO.jpg",
+            "logoAltText": "MLK Middle School Logo",
+            "filePath": "dr-martin-luther-king-jr-academic-middle-school.jpg"
         }
     },
     {
@@ -3471,7 +3611,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/cobb.jpg?itok=tEaJCIWn",
             "width": "320",
             "height": "320",
-            "filePath": "school_img/dr-william-l-cobb-elementary-school.jpg"
+            "filePath": "dr-william-l-cobb-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -3559,6 +3699,11 @@
                     "description": "Provides resources such as family liaison, instructional coach, mentoring, social worker, speech pathologist, student adviser, and therapist."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screenshot%202024-03-21%20at%203.45.35%20PM.png",
+            "logoAltText": "Dr. William L. Cobb Elementary School Logo",
+            "filePath": "dr-william-l-cobb-elementary-school.png"
         }
     },
     {
@@ -3569,7 +3714,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/IMG_2363.jpeg?itok=0ijfO-fS",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/er-taylor-elementary-school.jpeg"
+            "filePath": "er-taylor-elementary-school.jpeg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -3655,6 +3800,11 @@
                     "description": "Includes a family liaison, health and wellness center, on-site nurse, social worker, mentoring, and speech pathologist services."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/ER%20Taylor%20Logo_0.png",
+            "logoAltText": "E.R. Taylor Elementary School Logo",
+            "filePath": "er-taylor-elementary-school.png"
         }
     },
     {
@@ -3665,7 +3815,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/h6pIr4v0AVtf8kJW32-DsghRFxJm96BD0OwTVvbE-ikwzF6CI7_MZHip6SdL7I6GhkyCArMs9qywWtktOsOJNieKKy6jKnmyEkW1foeIpNncYYKxGmc2qoB2AiBEnrnAumuKgN1vljce1XdRtOObuq-zx_utGTvfK2GAzsO1cIyOhctlUC3guGfy8jRRa0jF_uXrOv1Q-vsk73cGNHm_C63rJf_yX3Oznu.jpg?itok=8seYkJ7i",
             "width": "320",
             "height": "213",
-            "filePath": "school_img/edwin-and-anita-lee-newcomer-school-limengxiankanglixinyiminxuexiao.jpg"
+            "filePath": "edwin-and-anita-lee-newcomer-school-limengxiankanglixinyiminxuexiao.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["2-5"],
@@ -3748,6 +3898,11 @@
                     "description": "Provides additional support with a family liaison and social worker to assist students' transition to a new cultural and educational environment."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/ealns%20new%20logo.jpg",
+            "logoAltText": "Edwin and Anita Lee Newcomer School Logo",
+            "filePath": "edwin-and-anita-lee-newcomer-school-limengxiankanglixinyiminxuexiao.jpg"
         }
     },
     {
@@ -3758,7 +3913,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2020-08/ELDO%20Eagle%20Color%20%232.png?itok=8CnCJM87",
             "width": "320",
             "height": "333",
-            "filePath": "school_img/el-dorado-elementary-school.png"
+            "filePath": "el-dorado-elementary-school.png"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -3846,6 +4001,11 @@
                     "description": "Includes a family liaison, health and wellness center, mentoring, an on-site nurse, social worker, and student adviser to ensure holistic student support."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/ELDO%20Eagle%20Color.png",
+            "logoAltText": "El Dorado Elementary School Logo",
+            "filePath": "el-dorado-elementary-school.png"
         }
     },
     {
@@ -3856,7 +4016,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/everett.jpg?itok=GXuc6Qkw",
             "width": "320",
             "height": "213",
-            "filePath": "school_img/everett-middle-school.jpg"
+            "filePath": "everett-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -3946,6 +4106,11 @@
                     "description": "Comprehensive support including access to a nurse, social worker, counselors, and mentoring to ensure student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/EMS.jpg",
+            "logoAltText": "Everett Middle School Logo",
+            "filePath": "everett-middle-school.jpg"
         }
     },
     {
@@ -3956,7 +4121,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2023-12/IMG_3536.jpg?itok=neB2woFT",
             "width": "320",
             "height": "313",
-            "filePath": "school_img/francis-scott-key-elementary-school.jpg"
+            "filePath": "francis-scott-key-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -4034,6 +4199,11 @@
                     "description": "Comprehensive support services providing access to healthcare professionals, social workers, and advisers to enhance student well-being and academic success."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/peg%20with%20shield.png",
+            "logoAltText": "Francis Scott Key Elementary School Logo",
+            "filePath": "francis-scott-key-elementary-school.png"
         }
     },
     {
@@ -4044,7 +4214,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/francisco.jpg?itok=qXLD3d-R",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/francisco-middle-school.jpg"
+            "filePath": "francisco-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -4156,6 +4326,11 @@
                     "description": "Includes counseling, family liaison, a health and wellness center, mentoring services, on-site nurse, and a social worker to support student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/1330644.jpg",
+            "logoAltText": "Francisco Middle School Logo",
+            "filePath": "francisco-middle-school.jpg"
         }
     },
     {
@@ -4166,7 +4341,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2024-10/McCoppinExteriorPickups%20%282%20of%203%29%202_0.jpg?itok=DZ5xD4Ms",
             "width": "320",
             "height": "129",
-            "filePath": "school_img/mccoppin.jpg"
+            "filePath": "mccoppin.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -4248,6 +4423,11 @@
                     "description": "Encompasses art classes, choir, dance, and instrumental music as part of the daily curriculum."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/dragon_1_0.png",
+            "logoAltText": "Frank McCoppin Elementary School Logo",
+            "filePath": "mccoppin.png"
         }
     },
     {
@@ -4258,7 +4438,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Galileo_Academy_of_Science_and_Technology_entrance.jpg?itok=sEkItyh9",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/galileo-academy-science-technology.jpg"
+            "filePath": "galileo-academy-science-technology.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-13"],
@@ -4384,6 +4564,11 @@
                     "description": "Wide range of sports including badminton, basketball, and cross country, promoting physical education and teamwork."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/galileo-crest-web_0.jpg",
+            "logoAltText": "Galileo Academy of Science & Technology Logo",
+            "filePath": "galileo-academy-science-technology.jpg"
         }
     },
     {
@@ -4485,7 +4670,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Peabody%20ES.JPG?itok=35gUi0XX",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/george-peabody-elementary-school.jpg"
+            "filePath": "george-peabody-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -4571,6 +4756,11 @@
                     "description": "Resource Specialist Services and separate mild/moderate classes, ensuring inclusive education for all learners."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/peabody%20logo%20blue.jpg",
+            "logoAltText": "George Peabody Elementary School Logo",
+            "filePath": "george-peabody-elementary-school.jpg"
         }
     },
     {
@@ -4581,7 +4771,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2024-01/Moscone%20Students%20on%20Staircase.jpeg?itok=g1vOcNbL",
             "width": "320",
             "height": "427",
-            "filePath": "school_img/george-r-moscone-elementary-school.jpeg"
+            "filePath": "george-r-moscone-elementary-school.jpeg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -4669,6 +4859,11 @@
                     "description": "Services include a family liaison, mentoring, on-site nurse, and social worker to support student well-being and growth."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Moscone%20Logo%20w%20Text.png",
+            "logoAltText": "George R. Moscone Elementary School Logo",
+            "filePath": "george-r-moscone-elementary-school.png"
         }
     },
     {
@@ -4679,7 +4874,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Washgrad05_m.jpg?itok=YuFFBvsJ",
             "width": "320",
             "height": "199",
-            "filePath": "school_img/george-washington-high-school.jpg"
+            "filePath": "george-washington-high-school.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-12"],
@@ -4773,6 +4968,11 @@
                     "description": "Provides counseling, college application workshops, career fairs, and personal statement workshops."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/School%20logo_0.jpg",
+            "logoAltText": "George Washington High School Logo",
+            "filePath": "george-washington-high-school.jpg"
         }
     },
     {
@@ -4783,7 +4983,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/buildingClear%20%281%29.jpg?itok=NdmaoqOv",
             "width": "320",
             "height": "213",
-            "filePath": "school_img/glen-park-elementary-school.jpg"
+            "filePath": "glen-park-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -4895,6 +5095,11 @@
                     "description": "Publishes annual School Accountability Report Cards (SARC) and Social-Emotional and Culture Climate Reports to track student achievement and school culture."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/GPS_Whale_letterhead_OptionB.blue__0.jpg",
+            "logoAltText": "Glen Park Elementary School Logo",
+            "filePath": "glen-park-elementary-school.jpg"
         }
     },
     {
@@ -4905,7 +5110,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/gordon-lau_solar_eclipse.jpeg?itok=shVhqWKF",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/gordon-j-lau-elementary-school.jpeg"
+            "filePath": "gordon-j-lau-elementary-school.jpeg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -4988,6 +5193,11 @@
                     "description": "Includes various artistic programs in collaboration with local arts organizations like SF Symphony and Purple Silk."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screen%20Shot%202019-03-28%20at%206.09.44%20PM.png",
+            "logoAltText": "Gordon J. Lau Elementary School Logo",
+            "filePath": "gordon-j-lau-elementary-school.png"
         }
     },
     {
@@ -4998,7 +5208,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/grattan.jpg?itok=Guj765B6",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/grattan-elementary-school.jpg"
+            "filePath": "grattan-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -5080,6 +5290,11 @@
                     "description": "Offers comprehensive support through family liaisons, instructional coaches, mental health consultants, mentoring, social workers, speech pathologists, and student advisers."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/grattanlogogreen009900.jpg",
+            "logoAltText": "Grattan Elementary School Logo",
+            "filePath": "grattan-elementary-school.jpg"
         }
     },
     {
@@ -5090,7 +5305,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Guadalupe%20Garcia%20.jpeg?itok=3iH0hWIm",
             "width": "320",
             "height": "328",
-            "filePath": "school_img/guadalupe-elementary-school.jpeg"
+            "filePath": "guadalupe-elementary-school.jpeg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -5198,6 +5413,11 @@
                     "description": "Offer mentoring through social workers and student advisers to support students' socio-emotional needs and guide their personal development."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Guad%20Logo.png",
+            "logoAltText": "Guadalupe Elementary School Logo",
+            "filePath": "guadalupe-elementary-school.png"
         }
     },
     {
@@ -5208,7 +5428,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/hmpledge.jpeg?itok=AU47wk5h",
             "width": "256",
             "height": "197",
-            "filePath": "school_img/harvey-milk-civil-rights-academy.jpeg"
+            "filePath": "harvey-milk-civil-rights-academy.jpeg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -5314,6 +5534,11 @@
                     "description": "Comprehensive special education services including resource specialists, instructional support, and personalized student advisors for enhanced learning experiences."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/hmlogo_0.jpeg",
+            "logoAltText": "Harvey Milk Academy Logo",
+            "filePath": "harvey-milk-civil-rights-academy.jpeg"
         }
     },
     {
@@ -5324,7 +5549,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/IMG_0962.JPG?itok=-Z23Yojr",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/herbert-hoover-middle-school.jpg"
+            "filePath": "herbert-hoover-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -5426,6 +5651,11 @@
                     "description": "Comprehensive support services including AVID, counseling, on-site nurse, and social worker services for holistic development."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/black%20hawk_0_0.png",
+            "logoAltText": "Herbert Hoover Middle School Logo",
+            "filePath": "herbert-hoover-middle-school.png"
         }
     },
     {
@@ -5436,7 +5666,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/IMG_20161209_093353.jpg?itok=Mf-e5C3U",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/hillcrest-elementary-school.jpg"
+            "filePath": "hillcrest-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -5518,6 +5748,11 @@
                     "description": "Provides family liaison, health and wellness center, instructional coaching, mental health consulting, mentoring, and access to a social worker, on-site nurse, speech pathologist, and student adviser."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Hillcrest%20Logo.png",
+            "logoAltText": "Hillcrest Elementary School Logo",
+            "filePath": "hillcrest-elementary-school.png"
         }
     },
     {
@@ -5602,6 +5837,11 @@
                     "description": "Encompasses advisory and counseling services, a health and wellness center with an on-site nurse, and access to a social worker."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Hilltop%20Logo.jpg",
+            "logoAltText": "Hilltop + El Camino Alternativo Schools Logo",
+            "filePath": "hilltop-el-camino-alternativo-schools.jpg"
         }
     },
     {
@@ -5612,7 +5852,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/wells-mosaic_470.png?itok=jW1pB2fq",
             "width": "320",
             "height": "181",
-            "filePath": "school_img/ida-b-wells-high-school.png"
+            "filePath": "ida-b-wells-high-school.png"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-12"],
@@ -5716,6 +5956,11 @@
                     "description": "Guides students through the college application process with workshops, fairs, tours, and financial aid advice."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screen%20Shot%202019-04-10%20at%2011.32.34%20AM.png",
+            "logoAltText": "Ida B Wells Logo",
+            "filePath": "ida-b-wells-high-school.png"
         }
     },
     {
@@ -5726,7 +5971,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/IMG_3067.jpg?itok=RguXVCpB",
             "width": "320",
             "height": "213",
-            "filePath": "school_img/independence-high-school.jpg"
+            "filePath": "independence-high-school.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-12"],
@@ -5824,6 +6069,11 @@
                     "description": "Links students with internships and job readiness programs to support career development."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/independence%20final%20rays%20rgb.png",
+            "logoAltText": "Independence High School Logo",
+            "filePath": "independence-high-school.png"
         }
     },
     {
@@ -5834,7 +6084,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/JDMS%20Student%20Peace%20Symbol.jpeg?itok=omGNqoso",
             "width": "275",
             "height": "183",
-            "filePath": "school_img/james-denman-middle-school.jpeg"
+            "filePath": "james-denman-middle-school.jpeg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -5924,6 +6174,11 @@
                     "description": "Features programs like AVID for college readiness, college planning resources, health and wellness centers, mentoring, counseling, and more."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/denman%20logo.2.png",
+            "logoAltText": "Student Logo",
+            "filePath": "james-denman-middle-school.png"
         }
     },
     {
@@ -5934,7 +6189,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/JamesLickFont.jpg?itok=pFVrs82m",
             "width": "320",
             "height": "180",
-            "filePath": "school_img/james-lick-middle-school.jpg"
+            "filePath": "james-lick-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -6026,6 +6281,11 @@
                     "description": "Provides academic counseling, college tours, and visits to prepare students for higher education opportunities."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screenshot%202023-02-02%20at%201.47.24%20PM.png",
+            "logoAltText": "James Lick Middle School Logo",
+            "filePath": "james-lick-middle-school.png"
         }
     },
     {
@@ -6036,7 +6296,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/JP%20Drone%20Photo.jpg?itok=--RtmJe2",
             "width": "320",
             "height": "239",
-            "filePath": "school_img/jean-parker-elementary-school.jpg"
+            "filePath": "jean-parker-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -6119,6 +6379,11 @@
                     "description": "Comprises a family liaison, health and wellness center, on-site nurse, social worker, and speech pathologist to support student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/JP%20Bee%20Logo.jpg",
+            "logoAltText": "Jean Parker Elementary School Logo",
+            "filePath": "jean-parker-elementary-school.jpg"
         }
     },
     {
@@ -6203,7 +6468,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Jefferson%20ES%20love%20and%20hope%202017.jpeg?itok=3Ug3CnLa",
             "width": "320",
             "height": "400",
-            "filePath": "school_img/jefferson-elementary-school.jpeg"
+            "filePath": "jefferson-elementary-school.jpeg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -6307,6 +6572,11 @@
                     "description": "Provides a social worker and social-emotional and culture climate support programs to enhance the school's learning environment."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Jefferson%20ES%20logo_0.jpg",
+            "logoAltText": "Jefferson Elementary School Logo",
+            "filePath": "jefferson-elementary-school.jpg"
         }
     },
     {
@@ -6390,6 +6660,11 @@
                     "description": "Special education program designed to meet the needs of Pre-K students who require additional support."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/JMESS%20Logo%20Update.png",
+            "logoAltText": "John McLaren Early Education School Logo",
+            "filePath": "john-mclaren-early-education-school.png"
         }
     },
     {
@@ -6400,7 +6675,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/muir.jpg?itok=ZeXxBEt2",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/john-muir-elementary-school.jpg"
+            "filePath": "john-muir-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -6491,6 +6766,11 @@
                     "description": "Comprehensive support through a family liaison, mentoring, on-site nurse, social worker, and therapist services."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screen%20Shot%202020-09-10%20at%201.09.51%20PM.png",
+            "logoAltText": "John Muir Elementary School Logo",
+            "filePath": "john-muir-elementary-school.png"
         }
     },
     {
@@ -6501,7 +6781,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/BCT%20girl%202016.png?itok=3ffgombF",
             "width": "320",
             "height": "298",
-            "filePath": "school_img/john-oconnell-high-school.png"
+            "filePath": "john-oconnell-high-school.png"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-13"],
@@ -6621,6 +6901,11 @@
                     "description": "Offers 100% College Prep services, including academic counseling, personal statement workshops, and college tours."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/OC_sweatshirt_logo%20%281%29.png",
+            "logoAltText": "John O'Connell High School Logo",
+            "filePath": "john-oconnell-high-school.png"
         }
     },
     {
@@ -6631,7 +6916,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/JYC%20Award%20Logos_1.jpg?itok=0jMxCHGj",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/john-yehall-chin-elementary-school.jpg"
+            "filePath": "john-yehall-chin-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -6724,7 +7009,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/ortega_470.jpg?itok=K02HZth9",
             "width": "320",
             "height": "163",
-            "filePath": "school_img/jose-ortega-elementary-school.jpg"
+            "filePath": "jose-ortega-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -6814,6 +7099,11 @@
                     "description": "An on-site program run by Stonestown YMCA that provides a nurturing and supportive environment for students after school hours."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/JOES-removebg-preview%202_2.png",
+            "logoAltText": "Jose Ortega Elementary School Logo",
+            "filePath": "jose-ortega-elementary-school.png"
         }
     },
     {
@@ -6824,7 +7114,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2023-10/Screenshot%202023-08-14%20at%201.58.01%20PM.png?itok=UraqSRjO",
             "width": "320",
             "height": "292",
-            "filePath": "school_img/june-jordan-school-equity.png"
+            "filePath": "june-jordan-school-equity.png"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-12"],
@@ -6908,6 +7198,11 @@
                     "description": "Offers academic counseling, financial aid workshops, college tours, personal statement workshops, and access to partnerships with local colleges."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screenshot%202023-08-14%20at%201.58.01%20PM.png",
+            "logoAltText": "June Jordan School for Equity Logo",
+            "filePath": "june-jordan-school-equity.png"
         }
     },
     {
@@ -6995,7 +7290,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2BoysReading2.jpg?itok=8fAv-VI5",
             "width": "320",
             "height": "236",
-            "filePath": "school_img/junipero-serra-elementary-school.jpg"
+            "filePath": "junipero-serra-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -7077,6 +7372,11 @@
                     "description": "Includes access to a computer lab and technology teacher to enhance students' academic experience through innovative learning methods."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/SerraLogo.jpg",
+            "logoAltText": "Junipero Serra Elementary School Logo",
+            "filePath": "junipero-serra-elementary-school.jpg"
         }
     },
     {
@@ -7087,7 +7387,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/lafayette.jpg?itok=x4QYnSB1",
             "width": "320",
             "height": "427",
-            "filePath": "school_img/lafayette-elementary-school.jpg"
+            "filePath": "lafayette-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -7167,6 +7467,11 @@
                     "description": "Provides mentoring, social workers, speech pathologists, student advisors, and therapists to support the comprehensive development of students."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/lafayette-dolphins_02_220516_FINAL-2%20%28dragged%29.jpg",
+            "logoAltText": "Lafayette Elementary School Logo",
+            "filePath": "lafayette-elementary-school.jpg"
         }
     },
     {
@@ -7177,7 +7482,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Lakeshore%20ES.jpg?itok=z3CDKwJa",
             "width": "320",
             "height": "427",
-            "filePath": "school_img/lakeshore-alternative-elementary-school.jpg"
+            "filePath": "lakeshore-alternative-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -7267,6 +7572,11 @@
                     "description": "Includes mentoring and access to a student social worker and adviser."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/leopard_Lakeshore_weblogo_transparent.gif",
+            "logoAltText": "Lakeshore Alternative Elementary School Logo",
+            "filePath": "lakeshore-alternative-elementary-school.gif"
         }
     },
     {
@@ -7358,6 +7668,11 @@
                     "description": "Includes access to a nurse, advisory sessions, after-school tutorials, counselor services, instructional coaching, social work, and speech pathology, ensuring well-rounded student support."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/676_CA_Distinguished_School_0.png",
+            "logoAltText": "Lawton Alternative School (K8) Logo",
+            "filePath": "lawton-alternative-school-k-8.png"
         }
     },
     {
@@ -7433,6 +7748,11 @@
                     "description": "Special education programs specifically for Pre-Kindergarten students, designed to support inclusive learning environments."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Leola%20Havard%20EES.png",
+            "logoAltText": "Leola M. Havard Early Education School Logo",
+            "filePath": "leola-m-havard-early-education-school.png"
         }
     },
     {
@@ -7443,7 +7763,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/flynn.jpg?itok=h2mm1O3K",
             "width": "320",
             "height": "213",
-            "filePath": "school_img/leonard-r-flynn-elementary-school.jpg"
+            "filePath": "leonard-r-flynn-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -7529,6 +7849,11 @@
                     "description": "Comprehensive support services including family liaison, health and wellness center, mentoring, onsite nurse, social worker, student adviser, and therapist to ensure student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/SFUSD%20logo.jpeg",
+            "logoAltText": "Leonard R. Flynn Elementary School Logo",
+            "filePath": "leonard-r-flynn-elementary-school.jpeg"
         }
     },
     {
@@ -7539,7 +7864,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Screen%20Shot%202017-04-12%20at%2011.14.11%20AM.png?itok=9axSgJZW",
             "width": "320",
             "height": "251",
-            "filePath": "school_img/longfellow-elementary-school.png"
+            "filePath": "longfellow-elementary-school.png"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -7629,6 +7954,11 @@
                     "description": "Provides access to a nurse, family liaison, and social worker to support student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Long-Fellow-Artwork-Jpeg%20copy.jpg",
+            "logoAltText": "Longfellow Elementary School Logo",
+            "filePath": "longfellow-elementary-school.jpg"
         }
     },
     {
@@ -7639,7 +7969,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Lowell%20Building%20004.JPG?itok=Or32dsNj",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/lowell-high-school.jpg"
+            "filePath": "lowell-high-school.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-13"],
@@ -7737,6 +8067,11 @@
                     "description": "Provides comprehensive guidance with college preparations including applications, financial aid, and college visits."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/FiatScientia-blueribbon.png",
+            "logoAltText": "Lowell High School Logo",
+            "filePath": "lowell-high-school.png"
         }
     },
     {
@@ -7747,7 +8082,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Malcolm%20X%20%28new%20pic%202%29.jpg?itok=lXeP4MEi",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/malcolm-x-academy-elementary-school.jpg"
+            "filePath": "malcolm-x-academy-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -7834,6 +8169,11 @@
                     "description": "Provides comprehensive support through family liaison, instructional coaches, mental health consultants, mentors, and healthcare professionals."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/MX%20ES%20school%20logo%202.jpg",
+            "logoAltText": "Malcolm X Academy Elementary School Logo",
+            "filePath": "malcolm-x-academy-elementary-school.jpg"
         }
     },
     {
@@ -7844,7 +8184,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/marina.jpg?itok=A3tPgerG",
             "width": "320",
             "height": "427",
-            "filePath": "school_img/marina-middle-school.jpg"
+            "filePath": "marina-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -7932,6 +8272,11 @@
                     "description": "Focuses on Arts, Media, and Entertainment to provide career-focused learning experiences."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Logo%20for%20website.jpg",
+            "logoAltText": "Marina Middle School Logo",
+            "filePath": "marina-middle-school.jpg"
         }
     },
     {
@@ -7942,7 +8287,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2024-06/Marcy-Elementry-2308-2370.jpg?itok=31hgipIz",
             "width": "320",
             "height": "213",
-            "filePath": "school_img/marshall-elementary-school.jpg"
+            "filePath": "marshall-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -8032,6 +8377,11 @@
                     "description": "Comprehensive support including a family liaison, instructional coach, on-site nurse, social worker, and speech pathologist."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/escuela-marshall%40png.png",
+            "logoAltText": "Marshall Elementary School Logo",
+            "filePath": "marshall-elementary-school.png"
         }
     },
     {
@@ -8042,7 +8392,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/rainbow.jpg?itok=yzuSNcg8",
             "width": "320",
             "height": "152",
-            "filePath": "school_img/mckinley-elementary-school.jpg"
+            "filePath": "mckinley-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -8124,6 +8474,11 @@
                     "description": "Resource access to a social worker and speech pathologist, ensuring holistic development and support for students."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/13mck_logo_shoot4stars_raf_color.jpg",
+            "logoAltText": "McKinley Elementary School Logo",
+            "filePath": "mckinley-elementary-school.jpg"
         }
     },
     {
@@ -8215,6 +8570,11 @@
                     "description": "Includes resources like social workers and student advisers to support student well-being and development."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/APD-Miraloma-Dragon-Black-Text.jpg",
+            "logoAltText": "Miraloma Elementary School Logo",
+            "filePath": "miraloma-elementary-school.jpg"
         }
     },
     {
@@ -8225,7 +8585,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/IMG_0574.JPG?itok=_YpkNNRj",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/mission-education-center-elementary-school.jpg"
+            "filePath": "mission-education-center-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -8319,6 +8679,11 @@
                     "description": "Regular assessments of the social-emotional health and cultural climate within the school community."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/MEC_logo.jpg",
+            "logoAltText": "Mission Education Center Elementary School Logo",
+            "filePath": "mission-education-center-elementary-school.jpg"
         }
     },
     {
@@ -8329,7 +8694,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Mission%20on%20the%20new%20field.jpg?itok=HNnkx46Q",
             "width": "320",
             "height": "109",
-            "filePath": "school_img/mission-high-school.jpg"
+            "filePath": "mission-high-school.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-13"],
@@ -8427,6 +8792,11 @@
                     "description": "Supports students with college preparation including applications, financial aid, and tours."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/MHS%20STAMP.png",
+            "logoAltText": "Mission High School Logo",
+            "filePath": "mission-high-school.png"
         }
     },
     {
@@ -8437,7 +8807,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/20201028_124647_0.jpg?itok=EXLN7p1p",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/monroe-elementary-school.jpg"
+            "filePath": "monroe-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -8535,6 +8905,11 @@
                     "description": "Comprising family liaison, support specialists, an on-site nurse, and a social worker to assist with students' holistic development."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/20201028_124705.jpg",
+            "logoAltText": "Monroe Elementary School Logo",
+            "filePath": "monroe-elementary-school.jpg"
         }
     },
     {
@@ -8545,7 +8920,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/new_traditions.jpg?itok=xalZEMz5",
             "width": "320",
             "height": "427",
-            "filePath": "school_img/new-traditions-creative-arts-elementary-school.jpg"
+            "filePath": "new-traditions-creative-arts-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -8729,7 +9104,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Paul%20Revere%20School%20Main%20Building_0.png?itok=F9h6Oa5o",
             "width": "320",
             "height": "291",
-            "filePath": "school_img/paul-revere-prek-8-school.png"
+            "filePath": "paul-revere-prek-8-school.png"
         },
         "gradesLabel": "Early Education, Elementary School, K-8 School",
         "gradeCodes": ["PreK", "TK", "K", "1-8"],
@@ -8823,6 +9198,11 @@
                     "description": "Provides academic counseling to prepare students for post-secondary education choices."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Untitled%20%282%29.png",
+            "logoAltText": "Paul Revere (PreK-8) School Logo",
+            "filePath": "paul-revere-prek-8-school.png"
         }
     },
     {
@@ -8833,7 +9213,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/BurtonPictureSearch.jpg?itok=ugYsJunr",
             "width": "320",
             "height": "183",
-            "filePath": "school_img/phillip-and-sala-burton-academic-high-school.jpg"
+            "filePath": "phillip-and-sala-burton-academic-high-school.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-13"],
@@ -8932,6 +9312,11 @@
                     "description": "Supportive services such as college prep, application workshops, financial aid guidance, and college tours."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/PUMAS-logo.jpg",
+            "logoAltText": "Phillip and Sala Burton Academic High School Logo",
+            "filePath": "phillip-and-sala-burton-academic-high-school.jpg"
         }
     },
     {
@@ -8942,7 +9327,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/69124363_2332996396737681_6559486724051828736_o.jpg?itok=FSwAe3e_",
             "width": "320",
             "height": "161",
-            "filePath": "school_img/presidio-middle-school.jpg"
+            "filePath": "presidio-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -9034,6 +9419,11 @@
                     "description": "Utilizes data reports such as the School Accountability Report Card and the School Plan for Student Achievement to enhance school performance and culture."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/panther_logo.jpg",
+            "logoAltText": "Presidio Middle School Logo",
+            "filePath": "presidio-middle-school.jpg"
         }
     },
     {
@@ -9116,7 +9506,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/wallenberghighschool_0.jpg?itok=ZD6ebqjm",
             "width": "320",
             "height": "217",
-            "filePath": "school_img/raoul-wallenberg-high-school.jpg"
+            "filePath": "raoul-wallenberg-high-school.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-13"],
@@ -9214,6 +9604,11 @@
                     "description": "Provides support including academic counseling, financial aid nights, college and career fairs, application workshops, and college tours."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/RWHS%20Bulldog%20Common%20Sense.png",
+            "logoAltText": "Raoul Wallenberg High School Logo",
+            "filePath": "raoul-wallenberg-high-school.png"
         }
     },
     {
@@ -9224,7 +9619,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/IMG_0021_0.JPG?itok=zMTLr3Yu",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/raphael-weill-early-education-school.jpg"
+            "filePath": "raphael-weill-early-education-school.jpg"
         },
         "gradesLabel": "Early Education",
         "gradeCodes": ["PreK"],
@@ -9297,7 +9692,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/IMG-0260_0.jpg?itok=0NyY4NQb",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/redding-elementary-school.jpg"
+            "filePath": "redding-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -9397,7 +9792,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/FullSizeRender-4.jpg?itok=MnMaJ_f1",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/robert-louis-stevenson-elementary-school.jpg"
+            "filePath": "robert-louis-stevenson-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -9479,6 +9874,11 @@
                     "description": "Provides additional support through services like a family liaison and social worker to enhance student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/White%20BG%20RLS%20Logo.png",
+            "logoAltText": "Robert Louis Stevenson Elementary School Logo",
+            "filePath": "robert-louis-stevenson-elementary-school.png"
         }
     },
     {
@@ -9489,7 +9889,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/SFUSDSoOS.Rooftop%20Mayeda%201997%20Lemanski%20_%20Rockwell%20Architects_0.jpg?itok=yx6nxiKi",
             "width": "320",
             "height": "248",
-            "filePath": "school_img/rooftop-school-tk-8.jpg"
+            "filePath": "rooftop-school-tk-8.jpg"
         },
         "gradesLabel": "Elementary School, K-8 School",
         "gradeCodes": ["TK", "K", "1-8"],
@@ -9612,6 +10012,11 @@
                     "description": "Mentoring and dedicated social worker services to support the social and emotional well-being of students, fostering a nurturing educational environment."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Rooftop%20Logo_0.png",
+            "logoAltText": "Rooftop School PK-8 (Main School Website) Logo",
+            "filePath": "rooftop-school-tk-8.png"
         }
     },
     {
@@ -9622,7 +10027,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/SFUSDSoOS.Rooftop%20Mayeda%201997%20Lemanski%20_%20Rockwell%20Architects_0.jpg?itok=yx6nxiKi",
             "width": "320",
             "height": "248",
-            "filePath": "school_img/rooftop-tk-8-school-mayeda-campus.jpg"
+            "filePath": "rooftop-tk-8-school-mayeda-campus.jpg"
         },
         "gradesLabel": "Elementary School, K-8 School, Middle School",
         "gradeCodes": ["5-8"],
@@ -9700,6 +10105,11 @@
                     "description": "Provides data on general education entry grade seats per application, highlighting school achievement and culture-climate through annual reports."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Rooftop%20School%20Logo.png",
+            "logoAltText": "Rooftop PreK-8 School (5-8 Mayeda Campus) Logo",
+            "filePath": "rooftop-tk-8-school-mayeda-campus.png"
         }
     },
     {
@@ -9710,7 +10120,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/roosevelt.jpg?itok=JBudrbPE",
             "width": "320",
             "height": "427",
-            "filePath": "school_img/roosevelt-middle-school.jpg"
+            "filePath": "roosevelt-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -9798,6 +10208,11 @@
                     "description": "Includes AVID for college readiness, mentoring, on-site nurse, social worker, and college planning support to guide student development and well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/IMG_A5626D718F79-1.jpeg",
+            "logoAltText": "Roosevelt Middle School Logo",
+            "filePath": "roosevelt-middle-school.jpeg"
         }
     },
     {
@@ -9808,7 +10223,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/rosa_parks.jpg?itok=gCOSjO-t",
             "width": "320",
             "height": "213",
-            "filePath": "school_img/rosa-parks-elementary-school.jpg"
+            "filePath": "rosa-parks-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -9890,6 +10305,11 @@
                     "description": "A comprehensive on-site program offering homework help, outdoor play, athletics, and clubs, available to all students with sliding scale fees."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/rosa-parks-logo_0.png",
+            "logoAltText": "Rosa Parks Elementary School Logo",
+            "filePath": "rosa-parks-elementary-school.png"
         }
     },
     {
@@ -9989,6 +10409,11 @@
                     "description": "Incorporates science, technology, engineering, arts, and mathematics into project-based learning experiences."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/ASAWA-SOTA%20LOGO_0.jpg",
+            "logoAltText": "Ruth Asawa San Francisco School of the Arts Logo",
+            "filePath": "ruth-asawa-san-francisco-school-arts.jpg"
         }
     },
     {
@@ -9999,7 +10424,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/SFC2017_playstructure.jpg?itok=iV6Q5fNF",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/san-francisco-community-school.jpg"
+            "filePath": "san-francisco-community-school.jpg"
         },
         "gradesLabel": "Elementary School, K-8 School, Middle School",
         "gradeCodes": ["TK", "K", "1-8"],
@@ -10095,7 +10520,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/DSC01608.JPG?itok=Gen0CdVZ",
             "width": "320",
             "height": "213",
-            "filePath": "school_img/san-francisco-international-high-school.jpg"
+            "filePath": "san-francisco-international-high-school.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-12"],
@@ -10193,6 +10618,11 @@
                     "description": "Publishes annual accountability reports to provide transparency on student achievement and school climate, with available translations in multiple languages."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/sfi%20logo4_3_0.png",
+            "logoAltText": "San Francisco International High School Logo",
+            "filePath": "san-francisco-international-high-school.png"
         }
     },
     {
@@ -10203,7 +10633,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Front%20of%20School_History.jpg?itok=tnKtj11A",
             "width": "320",
             "height": "427",
-            "filePath": "school_img/san-francisco-public-montessori.jpg"
+            "filePath": "san-francisco-public-montessori.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "K", "1-5"],
@@ -10305,6 +10735,11 @@
                     "description": "Provides health and wellness services with an onsite nurse and social worker to support the overall well-being of students."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/SFPM_Stationary%20Logo_sm.png",
+            "logoAltText": "San Francisco Public Montessori Logo",
+            "filePath": "san-francisco-public-montessori.png"
         }
     },
     {
@@ -10386,7 +10821,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/school%20entrance.jpg?itok=74HGY50S",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/sanchez-elementary-school.jpg"
+            "filePath": "sanchez-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -10476,6 +10911,11 @@
                     "description": "Includes family liaisons, health and wellness resources, mentoring, and social work services to support student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Sanchez%20new%20logo_0.jpg",
+            "logoAltText": "Sanchez Elementary School Logo",
+            "filePath": "sanchez-elementary-school.jpg"
         }
     },
     {
@@ -10486,7 +10926,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/20210827_170823.jpg?itok=s6-6hh3f",
             "width": "320",
             "height": "156",
-            "filePath": "school_img/sheridan-elementary-school.jpg"
+            "filePath": "sheridan-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -10576,6 +11016,11 @@
                     "description": "Inclusive services such as family liaison, mentoring, on-site nurse, and social worker support."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Sheridan%20ES%20Logo%202009.jpg",
+            "logoAltText": "Sheridan Elementary School Logo",
+            "filePath": "sheridan-elementary-school.jpg"
         }
     },
     {
@@ -10586,7 +11031,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/sherman.jpg?itok=wFiYIvIe",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/sherman-elementary-school.jpg"
+            "filePath": "sherman-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -10668,6 +11113,11 @@
                     "description": "Support initiatives such as a mental health consultant and tailored tutoring to enhance student well-being and academic success."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Unsinkable%20Blue%20Retro_logo_updated_colors_oval.png",
+            "logoAltText": "Sherman Elementary School Logo",
+            "filePath": "sherman-elementary-school.png"
         }
     },
     {
@@ -10678,7 +11128,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Screen%20Shot%202019-11-04%20at%208.22.56%20AM.png?itok=yxVexG8K",
             "width": "320",
             "height": "163",
-            "filePath": "school_img/spring-valley-science-elementary-school.png"
+            "filePath": "spring-valley-science-elementary-school.png"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -10766,6 +11216,11 @@
                     "description": "Provides resources including family liaisons, instructional coaches, social workers, and therapists to support the social-emotional wellness of students."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screen%20Shot%202019-10-07%20at%207.56.10%20AM.png",
+            "logoAltText": "Spring Valley Science Elementary School Logo",
+            "filePath": "spring-valley-science-elementary-school.png"
         }
     },
     {
@@ -10776,7 +11231,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Starr%20King%20Elementary%20students%20and%20staff%20posing%20for%20picture%20to%20thank%20parent%2C%20Rennie%20Saunders%20for%20championing%20school_s%20_greening%20committee_.jpg?itok=2XXzM_w2",
             "width": "320",
             "height": "213",
-            "filePath": "school_img/starr-king-elementary-school.jpg"
+            "filePath": "starr-king-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -10866,6 +11321,11 @@
                     "description": "Provides essential support through mentoring, on-site nurse, social worker, student advisers, and therapy services."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/SK%20Logo.jpg",
+            "logoAltText": "Starr King Elementary School Logo",
+            "filePath": "starr-king-elementary-school.jpg"
         }
     },
     {
@@ -10876,7 +11336,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/sunnyside.jpg?itok=6ckcIpgE",
             "width": "320",
             "height": "320",
-            "filePath": "school_img/sunnyside-elementary-school.jpg"
+            "filePath": "sunnyside-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -10972,7 +11432,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2020-05/mural.jpg?itok=3YQc0YJG",
             "width": "320",
             "height": "144",
-            "filePath": "school_img/sunset-elementary-school.jpg"
+            "filePath": "sunset-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -11062,6 +11522,11 @@
                     "description": "Access to a social worker to support various student needs and well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/new-logo.png",
+            "logoAltText": "Sunset Elementary School Logo",
+            "filePath": "sunset-elementary-school.png"
         }
     },
     {
@@ -11072,7 +11537,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/2023-03/Screen%20Shot%202020-12-15%20at%203.41.49%20PM.png?itok=4svz4dNY",
             "width": "320",
             "height": "212",
-            "filePath": "school_img/sutro-elementary-school.png"
+            "filePath": "sutro-elementary-school.png"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -11158,6 +11623,11 @@
                     "description": "Artistic enrichment for K-5 with visual arts programs, and dance, poetry, and instrumental music training for grades 4-5."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screen%20Shot%202020-08-25%20at%208.53.10%20PM.png",
+            "logoAltText": "Sutro Elementary School Logo",
+            "filePath": "sutro-elementary-school.png"
         }
     },
     {
@@ -11168,7 +11638,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/tenderloin.jpg?itok=bdpJjOne",
             "width": "320",
             "height": "165",
-            "filePath": "school_img/tenderloin-community-elementary-school.jpg"
+            "filePath": "tenderloin-community-elementary-school.jpg"
         },
         "gradesLabel": "Early Education, Elementary School",
         "gradeCodes": ["PreK", "TK", "K", "1-5"],
@@ -11258,6 +11728,11 @@
                     "description": "Access to a nurse, family liaison, family support specialist, and additional wellness resources."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/tenderloin%20cs%20v2%20b%26w.jpg",
+            "logoAltText": "Tenderloin Community Elementary School Logo",
+            "filePath": "tenderloin-community-elementary-school.jpg"
         }
     },
     {
@@ -11268,7 +11743,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/The%20Academy%20-%20San%20Francisco%20%40%20McAteer.jpg?itok=rIyqBgaR",
             "width": "320",
             "height": "427",
-            "filePath": "school_img/academy-san-francisco-mcateer.jpg"
+            "filePath": "academy-san-francisco-mcateer.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-12"],
@@ -11360,6 +11835,11 @@
                     "description": "Focused on Agriculture and Natural Resources and Education, Child Development and Family Services."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/wolf%20logo%20head-208_0.jpg",
+            "logoAltText": "The Academy - San Francisco @ McAteer Logo",
+            "filePath": "academy-san-francisco-mcateer.jpg"
         }
     },
     {
@@ -11445,7 +11925,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/school_thurgood_mural.jpg?itok=YPnloQqR",
             "width": "320",
             "height": "240",
-            "filePath": "school_img/thurgood-marshall-academic-high-school.jpg"
+            "filePath": "thurgood-marshall-academic-high-school.jpg"
         },
         "gradesLabel": "High School",
         "gradeCodes": ["9-13"],
@@ -11525,6 +12005,11 @@
                     "description": "Specialized academies such as the Culinary Pathway and Game Design, providing focused skill development for future careers."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Phoenix%20Logo%2019-20.png",
+            "logoAltText": "Thurgood Marshall Academic High School Logo",
+            "filePath": "thurgood-marshall-academic-high-school.png"
         }
     },
     {
@@ -11535,7 +12020,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/download%20%281%29.jpg?itok=hk4f0_Ka",
             "width": "259",
             "height": "194",
-            "filePath": "school_img/tule-elk-park-early-education-school.jpg"
+            "filePath": "tule-elk-park-early-education-school.jpg"
         },
         "gradesLabel": "Early Education",
         "gradeCodes": ["PreK", "TK"],
@@ -11617,6 +12102,11 @@
                     "description": "Includes access to a nurse, family support specialist, mental health consultant, and speech pathologist to support students' development and well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/tep.png",
+            "logoAltText": "Tule Elk Park Early Education School Logo",
+            "filePath": "tule-elk-park-early-education-school.png"
         }
     },
     {
@@ -11627,7 +12117,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/Ulloa%20Main%20Entrance.jpg?itok=J0kwglXE",
             "width": "320",
             "height": "171",
-            "filePath": "school_img/ulloa-elementary-school.jpg"
+            "filePath": "ulloa-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -11722,6 +12212,11 @@
                     "description": "Including Theater for K-1, Taiko Drumming for 2nd-5th, Instrumental Music for 4th-5th, and LEAP Arts in Education for all grades K-5 throughout the year."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screen%20Shot%202023-06-05%20at%202.00.27%20PM.png",
+            "logoAltText": "Ulloa Elementary School Logo",
+            "filePath": "ulloa-elementary-school.png"
         }
     },
     {
@@ -11732,7 +12227,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/vis_valley_0.jpg?itok=YzyEPMND",
             "width": "320",
             "height": "189",
-            "filePath": "school_img/visitacion-valley-elementary-school.jpg"
+            "filePath": "visitacion-valley-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -11818,6 +12313,11 @@
                     "description": "Includes access to health and wellness services with a nurse, social worker, liaison, speech pathologist, and student adviser to support holistic development."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/03_VVES-logo-transparent.png",
+            "logoAltText": "Visitacion Valley Elementary School Logo",
+            "filePath": "visitacion-valley-elementary-school.png"
         }
     },
     {
@@ -11828,7 +12328,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/sign%20student%20circle.JPG?itok=lAsScCyQ",
             "width": "320",
             "height": "326",
-            "filePath": "school_img/visitacion-valley-middle-school.jpg"
+            "filePath": "visitacion-valley-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -11919,6 +12419,11 @@
                     "description": "Includes after-school tutorials, college planning, health and wellness services, mentoring, and various counseling services to support student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screen%20Shot%202019-05-08%20at%209.22.13%20AM.png",
+            "logoAltText": "Visitacion Valley Middle School Logo",
+            "filePath": "visitacion-valley-middle-school.png"
         }
     },
     {
@@ -11929,7 +12434,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/West%20Portal%20site.jpg?itok=-I2J5T58",
             "width": "320",
             "height": "180",
-            "filePath": "school_img/west-portal-elementary-school.jpg"
+            "filePath": "west-portal-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["TK", "K", "1-5"],
@@ -12011,6 +12516,11 @@
                     "description": "Comprehensive support including mentoring, access to a social worker, student advisor, and therapist to bolster student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/WP%20Logo.jpg",
+            "logoAltText": "West Portal Elementary School Logo",
+            "filePath": "west-portal-elementary-school.jpg"
         }
     },
     {
@@ -12021,7 +12531,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/willie%20brown.JPG?itok=r1C4BK4c",
             "width": "320",
             "height": "205",
-            "filePath": "school_img/willie-l-brown-jr-middle-school.jpg"
+            "filePath": "willie-l-brown-jr-middle-school.jpg"
         },
         "gradesLabel": "Middle School",
         "gradeCodes": ["6-8"],
@@ -12107,6 +12617,11 @@
                     "description": "Includes advisory services, counseling, health and wellness center, mentoring, and more to support student well-being and success."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/Screen%20Shot%202019-05-21%20at%202.15.17%20PM.png",
+            "logoAltText": "Willie L. Brown Jr. Middle School Logo",
+            "filePath": "willie-l-brown-jr-middle-school.png"
         }
     },
     {
@@ -12203,7 +12718,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/LargePhoto%20Collage%204.jpg?itok=sWG9qpcH",
             "width": "320",
             "height": "231",
-            "filePath": "school_img/yick-wo-alternative-elementary-school.jpg"
+            "filePath": "yick-wo-alternative-elementary-school.jpg"
         },
         "gradesLabel": "Elementary School",
         "gradeCodes": ["K", "1-5"],
@@ -12293,6 +12808,11 @@
                     "description": "Services include access to social workers and tailored support systems to nurture student well-being."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/yick%20wo.jpg",
+            "logoAltText": "Yick Wo Alternative Elementary School Logo",
+            "filePath": "yick-wo-alternative-elementary-school.jpg"
         }
     },
     {
@@ -12382,6 +12902,11 @@
                     "description": "Facilitates college preparation through career counseling, college application workshops, and college tours to help students transition smoothly into higher education or their chosen career paths."
                 }
             ]
+        },
+        "logo": {
+            "logoUrl": "https://www.sfusd.edu/sites/default/files/school-logos/County%20Satellite%20Logo_0.jpeg",
+            "logoAltText": "Youth Chance High School Logo",
+            "filePath": "youth-chance-high-school.jpeg"
         }
     },
     {
@@ -12392,7 +12917,7 @@
             "src": "https://www.sfusd.edu/sites/default/files/styles/image_quarter/public/rodriguez_470.jpg?itok=ic0hIWty",
             "width": "320",
             "height": "141",
-            "filePath": "school_img/zaida-t-rodriguez-early-education-school.jpg"
+            "filePath": "zaida-t-rodriguez-early-education-school.jpg"
         },
         "gradesLabel": "Early Education",
         "gradeCodes": ["PreK", "TK"],
