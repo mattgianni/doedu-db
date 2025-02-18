@@ -67,3 +67,5 @@ desktop.ini
 
 !sample.env
 extracted_data/
+
+*.feather

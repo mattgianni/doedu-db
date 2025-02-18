@@ -50,7 +50,7 @@ class SchoolMatcher:
             Finds the best matching school for a given name and zip code.
     """
 
-    def __init__(self, schools: List[School] = None):
+    def __init__(self, schools: List[School]):
         """
         Initializes the SchoolMatcher with an optional list of schools.
 
@@ -137,4 +137,4 @@ class SchoolMatcher:
             return SchoolMatcher(schools)
         except psycopg2.DatabaseError as e:
             print(f"Database error: {e}")
-            return None
+            raise e

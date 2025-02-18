@@ -2,3 +2,12 @@ notebook
 python-dotenv
 psycopg2-binary; sys_platform == "darwin"
 psycopg2; sys_platform != "darwin"
+types-psycopg2
+sqlalchemy
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+fastparquet
+pyarrow
