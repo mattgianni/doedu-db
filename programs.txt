@@ -1,0 +1,28 @@
+casid^name^details^url^category
+3830288^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/balboa-high-school/4391^donate
+3830288^PTSA^^https://www.sfusd.edu/school/balboa-high-school/ptsa/cash-appeal^donate
+3830288^WALC Pathway^^https://walcsf.net/donate-new/^donate
+3830254^Burton's Marching Band^^https://www.paypal.com/donate/?hosted_button_id=Q95CE7W539Z2U^donate
+3830254^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/philip-sala-burton-high-school/4390^donate
+3830254^Food Pantry^^https://www.gofundme.com/f/j7awn-burton-high-school-food-pantry^donate
+3830064^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/downtown-alternative-cont-high-school/4386^donate
+3830064^WALC Pathway^^https://walcsf.net/donate-new/^donate
+3831765^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/galileo-academy-science-tech/4398^donate
+3830031^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/ida-b-wells-high-school/4385^donate
+3830197^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/independence-high-school/4388^donate
+0119875^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/san-francisco-int-l-high-school/98266^donate
+3833241^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/abraham-lincoln-high-school/4399^donate
+3833241^Lincoln High School Alumni Association^^https://lincolnalumni.com/donations/^donate
+3833407^Remote (Website, Social Media, Newsletter)^Help the PTSA maintain their online presence through remote social media, website, and newsletter maintenace!^https://docs.google.com/forms/d/e/1FAIpQLSd_ZykYI3GM9GZOVtnq2x4cnN6GmEwo0rBKhI3nfWwBexl65A/viewform^volunteer
+3833407^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/lowell-high-school/4400^donate
+3834082^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/mission-high-school/4401^donate
+3834769^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/john-o-connell-high-school/4402^donate
+3830387^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/academy-of-arts-sciences/4393^donate
+0119958^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/school-of-the-arts-high-school/99136^donate
+3830403^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/thurgood-marshall-academic-high-school/4394^donate
+3830205^Campus Cleanup^Help create a better environment for incoming and current Wallenberg students through cleaning up the gardens and picking up trash.^https://www.wallenbergpta.org/blog/categories/volunteers-needed^volunteer
+3830205^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/raoul-wallenberg-trad-high-school/4389^donate
+3830205^Zelle to the email wallenbergptsa@gmail.com^^pay://zelle?recipient=wallenbergptsa@gmail.com^donate
+3839081^Donors Choose^^https://www.donorschoose.org/schools/california/san-francisco-unified-school-district/george-washington-high-school/4403#projects^donate
+3839081^GWHS Alumni Association^^https://givebutter.com/sfgwhsalumni^donate
+3839081^Richmond Neighborhood Center^^https://form-renderer-app.donorperfect.io/give/the-richmond-neighborhood-center/new-online-donation^donate
